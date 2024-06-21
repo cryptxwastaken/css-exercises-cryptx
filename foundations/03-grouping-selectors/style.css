@@ -1,15 +1,15 @@
-.one,
-.two {
+.inverted,
+.yellow {
     font-size: 28px;
     font-family: Helvetica, 'Times New Roman', sans-serif;
 }
 
-.one {
+.inverted {
     background-color: hsl(0, 0%, 0%);
     color: hsl(0, 0%, 100%);
     font-weight: bold;
 }
 
-.two {
+.yellow {
     background-color: hsl(60, 100%, 50%);
 }
