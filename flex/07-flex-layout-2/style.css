@@ -50,7 +50,7 @@ a {
   display: flex;
   flex-wrap: wrap;
   padding: 48px;
-  gap: 32px
+  gap: 32px;
 }
 
 .card {
